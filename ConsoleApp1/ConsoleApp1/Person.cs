@@ -10,4 +10,6 @@ public class Person
         this.Name = name;
         this.Age = age;
     }
+    
+    //Dodac fk. zwracajaca typ uzytkownika
 }
